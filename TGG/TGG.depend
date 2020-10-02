@@ -2,22 +2,16 @@
 1601553483 source:c:\users\onyxa\documents\tgg\makeworld.c
 	"tgg.h"
 
-1601570476 c:\users\onyxa\documents\tgg\tgg.h
+1601631969 c:\users\onyxa\documents\tgg\tgg.h
 
-1601571776 source:c:\users\onyxa\documents\tgg\tgg.c
+1601628058 source:c:\users\onyxa\documents\tgg\tgg.c
 	"tgg.h"
 	<stdio.h>
 	<time.h>
 	<stdlib.h>
 	<windows.h>
-	"xm_struct_definers.h"
-	"xm_structs.h"
-	"xm_clear_macros.h"
-	"xm_struct_printers.h"
-	"xm_structs.h"
-	"xm_clear_macros.h"
 
-1601571757 source:c:\users\onyxa\documents\tgg\basicfunctions.c
+1601633544 source:c:\users\onyxa\documents\tgg\basicfunctions.c
 	"tgg.h"
 	<stdio.h>
 	<time.h>
@@ -26,15 +20,28 @@
 	<stdbool.h>
 	<dirent.h>
 	<sys/types.h>
+	<stdio.h>
+	"xm_struct_definers.h"
+	"xm_structs.h"
+	"xm_clear_macros.h"
+	"xm_struct_printers.h"
+	"xm_structs.h"
+	"xm_clear_macros.h"
+	"xm_struct_writers.h"
 
 1601568328 c:\users\onyxa\documents\tgg\xm_struct_definers.h
 	<stdbool.h>
 
-1601573648 c:\users\onyxa\documents\tgg\xm_structs.h
+1601582851 c:\users\onyxa\documents\tgg\xm_structs.h
 
 1601568339 c:\users\onyxa\documents\tgg\xm_clear_macros.h
 	<stdbool.h>
 
-1601568333 c:\users\onyxa\documents\tgg\xm_struct_printers.h
+1601633713 c:\users\onyxa\documents\tgg\xm_struct_printers.h
+	<stdbool.h>
+
+1601619272 source:c:\users\onyxa\documents\tgg\icon.rc
+
+1601633709 c:\users\onyxa\documents\tgg\xm_struct_writers.h
 	<stdbool.h>
 
