@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1601619272 source:c:\users\onyxa\documents\tgg++\icon.rc
+
+1601553483 source:c:\users\onyxa\documents\tgg++\makeworld.cpp
+	"tgg.h"
+
+1601650837 c:\users\onyxa\documents\tgg++\tgg.h
+
+1601652088 source:c:\users\onyxa\documents\tgg++\basicfunctions.cpp
+	<iostream>
+	"tgg.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"dirent.h"
+	<sys/types.h>
+	<stdio.h>
+
+1601652109 source:c:\users\onyxa\documents\tgg++\tgg.cpp
+	"tgg.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
